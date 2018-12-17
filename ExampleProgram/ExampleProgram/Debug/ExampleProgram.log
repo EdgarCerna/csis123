@@ -1,0 +1,3 @@
+﻿  ExampleProgram.cpp
+c:\users\cerna\desktop\csis 123 projects\exampleprogram\exampleprogram\exampleprogram.cpp(14): warning C4101: 'itemCode': unreferenced local variable
+  ExampleProgram.vcxproj -> C:\Users\cerna\Desktop\CSIS 123 Projects\ExampleProgram\Debug\ExampleProgram.exe

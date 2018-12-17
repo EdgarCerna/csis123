@@ -1,0 +1,3 @@
+﻿  LeastSquaresRegressionLine.cpp
+c:\users\cerna\desktop\leastsquaresregressionline\leastsquaresregressionline\leastsquaresregressionline.cpp(48): warning C4101: 'response': unreferenced local variable
+  LeastSquaresRegressionLine.vcxproj -> C:\Users\cerna\Desktop\LeastSquaresRegressionLine\Debug\LeastSquaresRegressionLine.exe
